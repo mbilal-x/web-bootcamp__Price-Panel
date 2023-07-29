@@ -5,8 +5,8 @@ This repository contains a pricing panel project that I coded as part of Udemy's
 
 ## Preview
 
-![Project Preview](./desktop__screenshot)
-![Project Preview](./mobile__screenshot)
+![Project Preview](./desktop__screenshot.png)
+![Project Preview](./mobile__screenshot.png)
 
 ## Features
 
